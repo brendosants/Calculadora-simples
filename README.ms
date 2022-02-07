@@ -1,5 +1,5 @@
-#PROJETO DE CALCULADORA SIMPLES#
-##Ferramentas##
-###CSS###
-###HTML###
-###JavaScript###
+#PROJETO DE CALCULADORA SIMPLES
+##Ferramentas
+###CSS
+###HTML
+###JavaScript
