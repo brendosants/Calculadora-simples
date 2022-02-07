@@ -1,4 +1,5 @@
 PROJETO DE CALCULADORA SIMPLES
-FerramentasCSS
+Ferramentas
+CSS
 HTML
 JavaScript
